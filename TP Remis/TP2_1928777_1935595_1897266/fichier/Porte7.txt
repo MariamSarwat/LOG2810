@@ -1,0 +1,4 @@
+S !_ S aA A b_ S d_ S f_
+; ; ;
+vide Porte17
+a Porte2

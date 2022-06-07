@@ -1,0 +1,4 @@
+S b_ S c_ S d_
+; ; ;
+b Porte3
+d Porte12

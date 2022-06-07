@@ -1,0 +1,8 @@
+S aA S bA S c_ A aS A bS S d_ S e_
+; ; ;
+aaab Porte8
+abab Porte10
+c Porte2
+d Porte15
+bbbbb Porte18
+e Porte9 

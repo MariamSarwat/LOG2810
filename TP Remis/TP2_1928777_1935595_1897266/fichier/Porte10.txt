@@ -1,0 +1,5 @@
+S d_ S c_ A !_ A b_ A eS
+; ; ;
+c Porte4
+dede Porte12
+db Porte5

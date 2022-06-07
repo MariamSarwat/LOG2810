@@ -1,0 +1,7 @@
+S e_ B !_ B fC C aS C b_ A !_ A dS
+; ; ;  
+efbd Porte1
+efa Porte8
+b Porte18
+e Porte16
+efbdef Porte12
